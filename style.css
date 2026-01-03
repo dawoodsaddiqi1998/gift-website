@@ -1,0 +1,6 @@
+.One{
+    width: 400px;
+    height: 400px;
+    background-image: url("galaxy.gif");
+    background-size: cover;
+}
